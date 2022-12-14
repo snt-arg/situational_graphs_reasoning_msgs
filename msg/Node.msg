@@ -1,3 +1,3 @@
-int32 id
+int64 id
 string type
 Attribute[] attributes

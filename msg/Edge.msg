@@ -1,3 +1,3 @@
-string origin_node
-string target_node
+int64 origin_node
+int64 target_node
 Attribute[] attributes
