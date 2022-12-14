@@ -1,2 +1,2 @@
-# graph_manager_interface_ros2
+# ros2_graph_manager_interface
 ROS2 interface for the Graph Manager Package
