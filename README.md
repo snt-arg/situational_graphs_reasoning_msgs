@@ -17,6 +17,12 @@ This is research code, expect that it changes often and any fitness for a partic
 
 ## Messages
 
+**Match**
+- name [string]
+- basis_nodes [Node[]]
+- target_nodes [Node[]]
+- edges [Edge[]]
+
 **Graph**
 - name [string]
 - nodes [Node[]]
