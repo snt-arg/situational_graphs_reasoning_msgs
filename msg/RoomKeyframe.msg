@@ -1,4 +1,5 @@
 std_msgs/Header header
+int16 robot_id
 int32 id
 sensor_msgs/PointCloud2 pointcloud
 geometry_msgs/Pose pose
