@@ -29,6 +29,7 @@ rosidl_generate_interfaces(${PROJECT_NAME}
   "msg/GraphAvailableElements.msg"
   "msg/Plane.msg"
   "msg/VerticalPlanes.msg"
+  "msg/RelativeMapEstimation.msg" 
   "srv/SubgraphMatch.srv"
   DEPENDENCIES geometry_msgs sensor_msgs std_msgs
 )
