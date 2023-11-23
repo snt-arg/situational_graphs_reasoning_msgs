@@ -1,8 +1,8 @@
-# ROS 2 Graph Manager Messages
+# Reasoning Messages
 
 ## Overview
 
-Graph Manager stores and performs graph operations related to S-Graphs.
+Reasoning Messages stores msg and srv definitinos for reasoning tasks on S-Graphs.
 
 ### License
 
@@ -106,7 +106,7 @@ colcon build --symlink-install --packages-select ros1_bridge --cmake-force-confi
 Verify the custom messages
 
 ```bash
-ros2 run ros1_bridge dynamic_bridge --print-pairs | grep graph_manager_msgs
+ros2 run ros1_bridge dynamic_bridge --print-pairs | grep reasoning_msgs
 ```
 
 
