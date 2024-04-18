@@ -1,3 +1,6 @@
 int64 origin_node
 int64 target_node
+int64 edge_id
+std_msgs/Float64MultiArray information_matrix
+geometry_msgs/Transform measurement_transform
 Attribute[] attributes
