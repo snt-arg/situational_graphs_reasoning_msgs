@@ -9,7 +9,7 @@ Reasoning Messages stores msg and srv definitinos for reasoning tasks on S-Graph
 The source code is released under GPLv3 License [![License: GPLv3](https://img.shields.io/badge/License-GPLv3-yellow.svg)](https://opensource.org/license/gpl-3-0).
 
 **Author: Jose Andres Millan Romera<br />
-Affiliation: [University of Luxembourg](https://www.anybotics.com/)<br />
+Affiliation: [University of Luxembourg](https://www.uni.lu/)<br />
 Maintainer: Jose Andres Millan Romera, josmilrom@gmail.com**
 
 The ROS 2 graph_manager messages package has been tested under [ROS2] Humble on Ubuntu 20.04.
