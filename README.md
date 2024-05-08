@@ -106,7 +106,7 @@ colcon build --symlink-install --packages-select ros1_bridge --cmake-force-confi
 Verify the custom messages
 
 ```bash
-ros2 run ros1_bridge dynamic_bridge --print-pairs | grep reasoning_msgs
+ros2 run ros1_bridge dynamic_bridge --print-pairs | grep situational_graphs_reasoning_msgs
 ```
 
 
