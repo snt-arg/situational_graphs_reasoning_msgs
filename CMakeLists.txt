@@ -26,6 +26,8 @@ rosidl_generate_interfaces(${PROJECT_NAME}
   "msg/GraphKeyframes.msg"
   "msg/RoomKeyframe.msg"
   "srv/SubgraphMatch.srv"
+  "msg/VSGraphsAllWallsData.msg"
+  "msg/VSGraphsWallData.msg"
   DEPENDENCIES geometry_msgs sensor_msgs std_msgs
 )
 
